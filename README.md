@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi 👋, I'm Jad  
 
-<!--
-**jadrsamara/jadrsamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **A Site Reliability Engineer** specialized in monitoring 🚨 and observability 🔭 
 
-Here are some ideas to get you started:
+🛠️ Main professional tools: AWS / Datadog / Jira / Google Workspace / Google Apps Script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## About Me 🙋
+
+🧑‍💻️ I’m currently learning Django to build my <a href="https://github.com/jadrsamara/portfolio">My Portfolio</a>, host it on Oracle Cloud, and showcase my projects on it
+
+<br>
+
+## Github Stats 📊
+
+<a href="https://github.com/jadrsamara/jadrsamara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadRSamara" />
+</a>
