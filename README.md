@@ -8,8 +8,16 @@
 
 ## About Me 🙋
 
-🧑‍💻️ I’m currently learning Django to build my <a href="https://github.com/jadrsamara/portfolio">My Portfolio</a>, host it on Oracle Cloud, and showcase my projects on it
-- My first project is a numbers game called [Numble](https://github.com/jadrsamara/numble) (similar to Wordle)
+🧑‍💻️ I’m currently developing a numbers game called [Numble](https://github.com/jadrsamara/numble) 
+
+🛠️ Tech stack: 
+ - Django
+ - Gunicorn
+ - Nginx
+ - Oracle Cloud (DB, Load Balancing, and Instance hosting)
+ - Cloudflare (for DNS, Caching static files, and Security)
+
+🌐 the game is live at [numble.one](https://numble.one) 
 
 <br>
 
