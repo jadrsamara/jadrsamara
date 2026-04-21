@@ -6,20 +6,16 @@
 
 - 💬 Ask me about **Site Reliability Engineering**
 
-- 👨‍💻 All of my projects are available at **[https://jadsamara.com](https://jadsamara.com)**
-
-- 📄 Know about my experiences **[https://jadsamara.com/cv](https://jadsamara.com/cv)**
-
 ---
 
 ## Latest Projects
 
-### <img src="https://money-scribe-fe.vercel.app/web-app-manifest-192x192.png" alt="logo" style="width:20px;"/> MoneyScribe - Expense Tracker App
+### <img src="https://www.expenssly.com/web-app-manifest-192x192.png" alt="logo" style="width:20px;"/> Expenssly - Finance Tracking
 
 A full-stack expense tracking application to help users monitor personal finances efficiently.  
 Users can manually add expenses or take a photo of receipts for automatic entry, view monthly and yearly reports, manage recurring bills, and sync failed uploads for data reliability.
 
-**🌐 Available at:** [MoneyScribe - Expense Tracker App](https://money-scribe-fe.vercel.app/)
+**🌐 Available at:** [Expenssly - Finance Tracking](https://www.expenssly.com/)
 
 **🛠️ Tech stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
