@@ -2,7 +2,7 @@
 
 ### SRE | Full-stack Developer | Observability & Monitoring
 
-- 🔭 I'm currently working on **an expense tracking application named MoneyScribe, built using Next.js and FastAPI**
+- 🔭 I'm currently working on **an expense tracking application named Expenssly, built using Next.js and FastAPI**
 
 - 💬 Ask me about **Site Reliability Engineering**
 
