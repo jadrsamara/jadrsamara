@@ -10,16 +10,20 @@
 
 ## Latest Projects
 
-### <img src="https://www.expenssly.com/web-app-manifest-192x192.png" alt="logo" style="width:20px;"/> Expenssly - Finance Tracking
+### <img src="https://www.expenssly.com/web-app-manifest-192x192.png" alt="logo" style="width:20px;"/> Expenssly - AI-Powered Finance Tracking
 
-A full-stack expense tracking application to help users monitor personal finances efficiently.  
-Users can manually add expenses or take a photo of receipts for automatic entry, view monthly and yearly reports, manage recurring bills, and sync failed uploads for data reliability.
+A full-stack expense tracking application to help users monitor personal finances efficiently.
+Snap a photo of a receipt for Gemini-powered OCR entry, get an AI spending digest, savings tips,
+budget suggestions, and a chat interface to ask questions about your own spending - plus multi-currency
+budgets, recurring bills, and yearly reports.
 
-**🌐 Available at:** [Expenssly - Finance Tracking](https://www.expenssly.com/)
+**🌐 Available at:** [expenssly.com](https://www.expenssly.com/)
 
 **🛠️ Tech stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/DrizzleORM-009688?logo=drizzle&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-6B46C1?logo=postgresql&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?logo=googlegemini&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Mailjet](https://img.shields.io/badge/Mailjet-7c46e8?logo=minutemailer&logoColor=white)
 
