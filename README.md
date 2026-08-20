@@ -1,8 +1,6 @@
 # Hi 👋, I'm Jad Samara
 
-### SRE | Full-stack Developer | Observability & Monitoring
-
-- 🔭 I'm currently working on **an expense tracking application named Expenssly, built using Next.js and FastAPI**
+### Site Reliability Engineering | AWS Solutions Architect | Observability & Monitoring
 
 - 💬 Ask me about **Site Reliability Engineering**
 
@@ -34,6 +32,8 @@ budgets, recurring bills, and yearly reports.
 Numble is a lightweight online puzzle game where players try to guess a hidden number using logic and feedback. It includes multiple modes (Normal, Blind, and Daily Challenge), a global leaderboard, and a clean, responsive interface.
 
 **🌐 Available at:** [numble.one](https://numble.one)
+
+**❤️‍🩹 Status Page**: [status.numble.one](status.numble.one "Status Page")
 
 **🛠️ Tech stack:** ![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-298729?logo=gunicorn&logoColor=white)
